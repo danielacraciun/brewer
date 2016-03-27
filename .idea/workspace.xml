@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd4f1dce-39c2-4674-a391-40da14590e5a" name="Default" comment="" />
+    <list default="true" id="cd4f1dce-39c2-4674-a391-40da14590e5a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib64" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/python3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/python" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/setuptools-5.7-py3.4.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn-19.4.5.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn-19.4.5.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn-19.4.5.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn-19.4.5.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/instrument/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/management/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/management/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/_gaiohttp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/_sendfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/activate.csh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/activate.fish" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/activate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/arbiter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/argparse_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/async.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/app/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/basecommand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/body.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/cmdoptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/debug.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/app/django_wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/app/djangoapp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/easy-install.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/easy_install-3.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/easy_install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn-19.4.5.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/errors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/errors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/gaiohttp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/geventlet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/ggevent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/glogging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/gthread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/gtornado.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/locations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/log.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/message.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn-19.4.5.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/app/pasterapp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/pep425tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/pidfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/pip3.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/pip3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/bin/pip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/pyvenv.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/reloader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/req.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/management/commands/run_gunicorn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/selectors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/setuptools.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/sock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/instrument/statsd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/sync.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn-19.4.5.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/unreader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/pip-1.5.6-py3.4.egg/pip/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/workers/workertmp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/http/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env/lib/python3.4/site-packages/gunicorn/app/wsgiapp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
     <ignored path="brewer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,11 +108,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26213592">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.69902915">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -40,8 +136,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -98,24 +195,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brewer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="env" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,25 +220,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -168,7 +251,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -176,18 +267,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/runtime.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26213592">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69902915">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding />
         </state>
       </provider>
