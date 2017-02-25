@@ -1,10 +1,10 @@
 # brewer #
-### brew your own! ###
-barebone flask app for a tasty, delightfully smooth start  
+
+barebone flask app 
 what it does:
 - customizable webapp with minimum boilerplate
 - can be easily deployed to heroku
-- supports various environments configs (add your own, too!)
+- supports various environments configs
 - sqlalchemy and migrations included
 - manager included   
 
