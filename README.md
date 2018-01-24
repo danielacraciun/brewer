@@ -1,7 +1,8 @@
 # brewer #
 
 barebone flask app 
-what it does:
+
+### what it does:
 - customizable webapp with minimum boilerplate
 - can be easily deployed to heroku
 - supports various environments configs
