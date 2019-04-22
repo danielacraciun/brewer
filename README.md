@@ -18,5 +18,5 @@ note: ```APP_SETTINGS``` is a environment variable which needs to be set dependi
 - ```export APP_SETTINGS="config.[chosen_config]"```   
 ...and you're good to go!   
    
-to automate these (and the activation of your venv of choice) i suggest using [autoenv](https://github.com/kennethreitz/autoenv)
+to automate these (and the activation of your venv of choice) i suggest using ~~[autoenv](https://github.com/kennethreitz/autoenv)~~ [pyenv](https://github.com/pyenv/pyenv)
 
